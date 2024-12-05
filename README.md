@@ -40,13 +40,6 @@ The **Text-to-SQL** project bridges the gap between non-technical users and data
 - **Database Integration**: SQLAlchemy
 - **Web Frameworks**: Flask/Django (optional for API or web interface)
 
----
 
-## Installation
 
-Follow these steps to install and set up the project:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/text-to-sql.git
-   cd text-to-sql
