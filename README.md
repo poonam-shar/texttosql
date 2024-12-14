@@ -37,7 +37,7 @@ The **Text-to-SQL** project bridges the gap between non-technical users and data
 
 - **Programming Language**: Python
 - **Natural Language Processing (NLP)**: Frameworks like spaCy, NLTK, or OpenAI GPT
-- **Database Integration**: SQLAlchemy
+- **Database Integration**: SQLite3
 - **Web Frameworks**: Flask/Django (optional for API or web interface)
 
 
